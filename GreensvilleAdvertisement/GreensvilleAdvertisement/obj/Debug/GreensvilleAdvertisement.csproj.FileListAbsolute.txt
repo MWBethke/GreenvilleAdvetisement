@@ -1,0 +1,9 @@
+E:\CIS-2620-Object-Oriented-Programming-I\DataFiles\Chapter12\GreensvilleAdvertisement\GreensvilleAdvertisement\bin\Debug\GreensvilleAdvertisement.exe.config
+E:\CIS-2620-Object-Oriented-Programming-I\DataFiles\Chapter12\GreensvilleAdvertisement\GreensvilleAdvertisement\bin\Debug\GreensvilleAdvertisement.exe
+E:\CIS-2620-Object-Oriented-Programming-I\DataFiles\Chapter12\GreensvilleAdvertisement\GreensvilleAdvertisement\bin\Debug\GreensvilleAdvertisement.pdb
+E:\CIS-2620-Object-Oriented-Programming-I\DataFiles\Chapter12\GreensvilleAdvertisement\GreensvilleAdvertisement\obj\Debug\GreensvilleAdvertisement.csprojResolveAssemblyReference.cache
+E:\CIS-2620-Object-Oriented-Programming-I\DataFiles\Chapter12\GreensvilleAdvertisement\GreensvilleAdvertisement\obj\Debug\GreensvilleAdvertisement.GVAForm.resources
+E:\CIS-2620-Object-Oriented-Programming-I\DataFiles\Chapter12\GreensvilleAdvertisement\GreensvilleAdvertisement\obj\Debug\GreensvilleAdvertisement.Properties.Resources.resources
+E:\CIS-2620-Object-Oriented-Programming-I\DataFiles\Chapter12\GreensvilleAdvertisement\GreensvilleAdvertisement\obj\Debug\GreensvilleAdvertisement.csproj.GenerateResource.Cache
+E:\CIS-2620-Object-Oriented-Programming-I\DataFiles\Chapter12\GreensvilleAdvertisement\GreensvilleAdvertisement\obj\Debug\GreensvilleAdvertisement.exe
+E:\CIS-2620-Object-Oriented-Programming-I\DataFiles\Chapter12\GreensvilleAdvertisement\GreensvilleAdvertisement\obj\Debug\GreensvilleAdvertisement.pdb
